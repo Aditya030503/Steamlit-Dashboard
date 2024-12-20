@@ -121,7 +121,7 @@ Watch this video walkthrough to understand how to use the application and explor
 ### **3. Dashboard Overview**
 Interactive charts and visuals:
 
-![Dashboard](Dashboard_Screenshot.png)
+<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="700">
 
 ---
 
@@ -134,7 +134,7 @@ We'd love to hear from you! Use the contact form in the app to share your though
 
 ### **Interactive Charts**
 ![Charts](charts_screenshot.png)
-<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="200">
+
 ---
 
 ## License
