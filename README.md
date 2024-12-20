@@ -121,7 +121,7 @@ Watch this video walkthrough to understand how to use the application and explor
 ### **3. Dashboard Overview**
 Interactive charts and visuals:
 
-![Dashboard](images/Dashboard_Screenshot.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 ---
 
