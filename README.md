@@ -111,7 +111,10 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ### **1. Lottie Animations**
 Engage with animations throughout the app for a better user experience. Example:
-![Lottie Animation Example](animation.mp4)
+<video width="640" height="360" controls>
+  <source src="animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### **2. Video Walkthrough**
 Watch this video walkthrough to understand how to use the application and explore key features:
