@@ -133,7 +133,7 @@ We'd love to hear from you! Use the contact form in the app to share your though
 ## Screenshots
 
 ### **Interactive Charts**
-![Charts](images/charts_screenshot.png)
+![Charts](charts_screenshot.png)
 
 ---
 
