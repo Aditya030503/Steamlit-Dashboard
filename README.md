@@ -48,6 +48,7 @@ The interactive web application built with **Streamlit** allows users to explore
 ### **Additional Tools**
 - **Geopandas**: To handle spatial data for maps.
 - **Lottie Animations**: For engaging app visuals.
+- **Video Embeds**: To showcase demo walkthroughs and insights.
 
 ---
 
@@ -106,15 +107,30 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
+## Interactive Elements
+
+### **1. Lottie Animations**
+Engage with animations throughout the app for a better user experience. Example:
+![Lottie Animation Example](https://assets10.lottiefiles.com/packages/lf20_x62chJ.json)
+
+### **2. Video Walkthrough**
+Watch this video walkthrough to understand how to use the application and explore key features:
+
+[![Indian EV Market Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### **3. Dashboard Overview**
+Interactive charts and visuals:
+
+![Dashboard](images/dashboard_screenshot.png)
+
+---
+
 ## Feedback
 We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
 
 ---
 
 ## Screenshots
-
-### **Dashboard Overview**
-![Dashboard](images/dashboard_screenshot.png)
 
 ### **Interactive Charts**
 ![Charts](images/charts_screenshot.png)
