@@ -134,7 +134,7 @@ We'd love to hear from you! Use the contact form in the app to share your though
 
 ### **Interactive Charts**
 ![Charts](charts_screenshot.png)
-
+<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="200">
 ---
 
 ## License
