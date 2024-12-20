@@ -133,7 +133,7 @@ We'd love to hear from you! Use the contact form in the app to share your though
 ## Screenshots
 
 ### **Interactive Charts**
-<img src="Screenshot.png" alt="Chart" width="700">
+<img src="Screenshot_india_map.png" alt="Chart" width="700">
 
 
 
