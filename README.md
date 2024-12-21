@@ -1,6 +1,6 @@
 # Indian EV Market Analysis (2001 - 2024)
 
-<img src="Ev_animation.gif" alt="Ev Animation" width='500'>
+<img src="Ev_animation.gif" alt="Ev Animation" width='200'>
 
 ## Overview
 This project provides a comprehensive analysis of the Electric Vehicle (EV) market in India, covering the period from 2001 to 2024. The analysis focuses on:
