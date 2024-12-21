@@ -15,6 +15,12 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
+### 🎥 Quick Video Preview
+![Watch Video](https://via.placeholder.com/800x400)
+> [Click here to watch a video demo](https://your-video-link.com)
+
+---
+
 ## 📌 Key Features
 
 ### **1. Interactive Visualizations**
@@ -45,7 +51,6 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ### **Data Management**
 - **Pandas**: For data manipulation and preprocessing.
-- **SQL**: For structured data storage and querying.
 
 ### **Additional Tools**
 - **Geopandas**: To handle spatial data for maps.
@@ -80,7 +85,7 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
-## Project Architecture
+## 📈 Project Architecture
 
 ### **1. Data Collection Layer**
 - Raw data is gathered from CSV files and preprocessed for analysis.
@@ -98,20 +103,20 @@ The interactive web application built with **Streamlit** allows users to explore
 ## 📊 Visual Insights
 
 ### 1. **Yearly EV Sales**
-![](https://via.placeholder.com/800x400)
+![Total Sale](total_sale_bar)
 > *Bar chart showcasing annual EV sales from 2001 to 2024.*
 
 ### 2. **State-wise EV Market Analysis**
-![State-wise EV Market](https://via.placeholder.com/800x400)
+![State-wise EV Market](state_wise_pie)
 > *Pie chart revealing state-wise EV company distribution.*
 
-### 3. **Top EV Manufacturers**
+### 3. **Vehicle Class Registration Summary**
+![Category-wise Sales](vechicle_bar)
+> *Horizontal bar chart comparing Vehiale Class Registration.*
+
+### 4. **State-wise Distribution of Operational PCS**
 ![Top Manufacturers](https://via.placeholder.com/800x400)
 > *Bar chart featuring growth leaders among manufacturers.*
-
-### 4. **Category-wise Sales Analysis**
-![Category-wise Sales](https://via.placeholder.com/800x400)
-> *Horizontal bar chart comparing category sales performance.*
 
 ---
 
@@ -122,49 +127,61 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
-## Authors
+## ✨ Interactive Elements
+
+### **1. Lottie Animations**
+Engage with animations throughout the app for a better user experience. Example:
+![Demo](animation.gif)
+
+
+### **2. Dashboard Overview**
+<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="700">
+> *An interactive dashboard summarizing all key metrics.*
+
+
+### **3. Heatmap Insights**
+![EV Heatmap](Screenshot.png)
+> *Heatmap visualizing sales and distribution across time.*
+
+---
+
+## 📍 Interactive Map
+Explore EV manufacturer locations and market activities across India through a live interactive map.
+
+### Map Preview
+<img src="Screenshot_india_map.png" alt="Interactive EV Map" width="700">
+> *Navigate using zoom and filter options.*
+
+---
+
+## 📋 Authors
 - Akash Vishwakarma
 - Aditya
 - Siva Maruthi
 
 ---
 
-## Interactive Elements
-
-### **1. Lottie Animations**
-Engage with animations throughout the app for a better user experience. Example:
-
-![Demo](animation.gif)
-
-
-### **2. Video Walkthrough**
-Watch this video walkthrough to understand how to use the application and explore key features:
-
-[![Indian EV Market Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-### **3. Dashboard Overview**
-Interactive charts and visuals:
-
-<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="700">
-
----
-
-## Feedback
+## ✉️ Feedback
 We'd love to hear from you! Use the contact form in the app to share your thoughts or suggestions.
 
 ---
 
-## Screenshots
-
-### **Interactive Charts**
-<img src="Screenshot_india_map.png" alt="Chart" width="700">
-
-
+## 🤝 Acknowledgments
+This project is made possible with:
+- **Datasets**: Publicly available EV market and operational data.
+- **Visualization Libraries**: Streamlit, Plotly, and more.
 
 ---
 
-## License
+## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+## 🛠 Future Enhancements
+- Integration of real-time EV sales data feeds.
+- Granular insights, including city-wise analysis.
+- Predictive analytics using machine learning for EV trends.
 
 ---
 
