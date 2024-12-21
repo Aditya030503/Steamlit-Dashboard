@@ -135,8 +135,9 @@ Engage with animations throughout the app for a better user experience.
 
 
 ### **2. Dashboard Overview**
-<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="700">
 > *An interactive dashboard summarizing all key metrics.*
+<img src="Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="700">
+
 
 
 ### **3. Heatmap Insights**
@@ -149,8 +150,9 @@ Engage with animations throughout the app for a better user experience.
 Explore EV manufacturer locations and market activities across India through a live interactive map.
 
 ### Map Preview
-<img src="Screenshot_india_map.png" alt="Interactive EV Map" width="700">
 > *Navigate using zoom and filter options.*
+<img src="Screenshot_india_map.png" alt="Interactive EV Map" width="700">
+
 
 ---
 
