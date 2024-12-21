@@ -130,7 +130,7 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ### **1. Lottie Animations**
 Engage with animations throughout the app for a better user experience. Example:
-![Demo](animation.gif)
+<img src="animation.gif" alt="Demo_Animation" width='200'>
 
 
 ### **2. Dashboard Overview**
