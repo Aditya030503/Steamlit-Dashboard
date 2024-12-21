@@ -113,9 +113,9 @@ The interactive web application built with **Streamlit** allows users to explore
 ![Category-wise Sales](vechicle_bar)
 > *Horizontal bar chart comparing Vehiale Class Registration.*
 
-### 4. **State-wise Distribution of Operational PCS**
-![Top Manufacturers](https://via.placeholder.com/800x400)
-> *Bar chart featuring growth leaders among manufacturers.*
+### 4. **State-wise Operational PCS Analysis**
+![Operational PCS](pcs_hist)
+> *Histogram chart revealing state-wise EV company distribution.*
 
 ---
 
