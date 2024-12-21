@@ -1,5 +1,7 @@
 # Indian EV Market Analysis (2001 - 2024)
-![Lottie Animation Example](animation.gif)
+
+<img src="animation2.gif" alt="Dashboard Screenshot" width="1000" heigth='200'>
+
 ## Overview
 This project provides a comprehensive analysis of the Electric Vehicle (EV) market in India, covering the period from 2001 to 2024. The analysis focuses on:
 - Growth trends
@@ -111,12 +113,9 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ### **1. Lottie Animations**
 Engage with animations throughout the app for a better user experience. Example:
-ffmpeg -i animation.mp4 -vf "fps=10,scale=640:-1:flags=lanczos" demo.gif
-![Demo](demo.gif)
-<video width="640" height="360" controls>
-  <source src="animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+![Demo](animation.gif)
+
 
 ### **2. Video Walkthrough**
 Watch this video walkthrough to understand how to use the application and explore key features:
