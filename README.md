@@ -2,7 +2,7 @@
 
 <img src="Ev_animation.gif" alt="Ev Animation" width='200'>
 
-## Overview
+## 🚔 Overview
 This project provides a comprehensive analysis of the Electric Vehicle (EV) market in India, covering the period from 2001 to 2024. The analysis focuses on:
 - Growth trends
 - Government policies
@@ -15,7 +15,7 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
-## Key Features
+## 📌 Key Features
 
 ### **1. Interactive Visualizations**
 - **Total EV Sales Over the Years:** Track how EV sales have grown annually.
@@ -35,7 +35,7 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
-## Technology Stack
+## 🛠 Technology Stack
 
 ### **Languages and Frameworks**
 - **Python**: Core programming language for data analysis and app development.
@@ -54,13 +54,13 @@ The interactive web application built with **Streamlit** allows users to explore
 
 ---
 
-## How to Run the Application
+## 🚀 How to Run the Application
 
 ### **Prerequisites**
 1. Install Python 3.8 or above.
 2. Install dependencies using pip:
     ```bash
-    pip install streamlit pandas numpy plotly folium geopandas
+    pip install streamlit pandas numpy plotly folium geopandas streamlit-folium
     ```
 
 ### **Steps to Run**
@@ -92,6 +92,26 @@ The interactive web application built with **Streamlit** allows users to explore
 ### **3. Visualization and Front-End Layer**
 - Built with Streamlit for dynamic user interaction.
 - Visualized with Plotly and Folium for comprehensive insights.
+
+---
+
+## 📊 Visual Insights
+
+### 1. **Yearly EV Sales**
+![](https://via.placeholder.com/800x400)
+> *Bar chart showcasing annual EV sales from 2001 to 2024.*
+
+### 2. **State-wise EV Market Analysis**
+![State-wise EV Market](https://via.placeholder.com/800x400)
+> *Pie chart revealing state-wise EV company distribution.*
+
+### 3. **Top EV Manufacturers**
+![Top Manufacturers](https://via.placeholder.com/800x400)
+> *Bar chart featuring growth leaders among manufacturers.*
+
+### 4. **Category-wise Sales Analysis**
+![Category-wise Sales](https://via.placeholder.com/800x400)
+> *Horizontal bar chart comparing category sales performance.*
 
 ---
 
