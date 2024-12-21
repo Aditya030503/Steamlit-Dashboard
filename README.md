@@ -150,7 +150,7 @@ Explore EV manufacturer locations and market activities across India through a l
 
 ### Map Preview
 <img src="Screenshot_india_map.png" alt="Interactive EV Map" width="700">
-> *Navigate using zoom and filter options.*
+> *Heatmap visualizing sales and distribution across time.*
 
 ---
 
