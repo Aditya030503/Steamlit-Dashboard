@@ -1,4 +1,4 @@
-# Indian EV Market Analysis (2001 - 2024)
+# 🚎 Indian EV Market Analysis (2001 - 2024) 🚎
 
 <img src="Ev_animation.gif" alt="Ev Animation" width='200'>
 
