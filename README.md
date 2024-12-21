@@ -55,7 +55,6 @@ The interactive web application built with **Streamlit** allows users to explore
 ### **Additional Tools**
 - **Geopandas**: To handle spatial data for maps.
 - **Lottie Animations**: For engaging app visuals.
-- **Video Embeds**: To showcase demo walkthroughs and insights.
 
 ---
 
