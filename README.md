@@ -129,7 +129,7 @@ The interactive web application built with **Streamlit** allows users to explore
 ## ✨ Interactive Elements
 
 ### **1. Lottie Animations**
-Engage with animations throughout the app for a better user experience. > > >
+Engage with animations throughout the app for a better user experience.
 > Example:
 <img src="animation.gif" alt="Demo_Animation" width='200'>
 
